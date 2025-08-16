@@ -47,6 +47,7 @@
         "locale": "cpp",
         "new": "cpp",
         "stdexcept": "cpp",
-        "xfacet": "cpp"
+        "xfacet": "cpp",
+        "iomanip": "cpp"
     }
 }
