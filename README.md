@@ -6,4 +6,5 @@
 
 ### :rocket: 目录：
 [【入门1】顺序结构](https://www.luogu.com.cn/training/100#problems) 已完成</br>
-[【入门2】分支结构](https://www.luogu.com.cn/training/101#problems)
+[【入门2】分支结构](https://www.luogu.com.cn/training/101#problems) 已完成</br>
+[【入门3】循环结构](https://www.luogu.com.cn/training/102#problems) 
