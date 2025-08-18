@@ -49,6 +49,7 @@
         "stdexcept": "cpp",
         "xfacet": "cpp",
         "iomanip": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "optional": "cpp"
     }
 }
