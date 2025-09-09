@@ -50,6 +50,7 @@
         "xfacet": "cpp",
         "iomanip": "cpp",
         "algorithm": "cpp",
-        "optional": "cpp"
+        "optional": "cpp",
+        "string": "cpp"
     }
 }
